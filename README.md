@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💻 Skills:
-
-Languages: Python, JavaScript, Java, C++
-Frameworks: React, Node.js, Django, Spring
-Tools: Git, Docker, Kubernetes, CI/CD
+Languages:JavaScript C++
+Frameworks: React, Node.js,
+Tools: Git
