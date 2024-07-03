@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Skills:
+
+Languages: Python, JavaScript, Java, C++
+Frameworks: React, Node.js, Django, Spring
+Tools: Git, Docker, Kubernetes, CI/CD
